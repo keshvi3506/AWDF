@@ -1,10 +1,73 @@
 [
   {
+    "id": "fd5ab70c-4d07-483d-8161-f652996b0105",
+    "title": "COMPLETE OR SUBMIT THE REQUIREMENTS OF SRC LIST",
+    "description": "Review the current source code list and verify that all required fields (file name, path, size, checksum, and license) are present for each entry. Update any missing or incorrect entries, then generate a CSV report and submit it to the repository’s requirements tracker. A successful outcome is a complete, accurate CSV file that passes the automated validation script and is marked “requirements met” in the tracker.",
+    "priority": "Medium",
+    "status": "Pending",
+    "assignedUser": "Student",
+    "createdAt": "2026-11-02T05:50:53.154Z"
+  },
+  {
+    "id": "bae3350d-bed9-4ff1-a40b-3dec40cd8287",
+    "title": "fdgfdg",
+    "description": "Draft a concise project brief for the new marketing campaign, outlining the target audience, key messaging points, and the desired call-to-action. Include steps to gather stakeholder input, create a timeline, and assign responsibilities, ensuring the brief is approved by the senior manager before the campaign launch. A successful outcome is a finalized brief that aligns with brand guidelines and receives formal sign-off.",
+    "priority": "Medium",
+    "status": "Completed",
+    "assignedUser": "Student",
+    "createdAt": "2026-11-02T05:49:49.620Z"
+  },
+  {
+    "id": "51edc587-b3b3-4287-8507-9bc10b21b5bf",
+    "title": "TERM WORK SUBMISSION",
+    "description": "Plan and complete \"TERM WORK SUBMISSION\". Identify the required steps, work through them, and review the result before marking the task complete.",
+    "priority": "Medium",
+    "status": "Pending",
+    "assignedUser": "Student",
+    "createdAt": "2026-11-02T05:37:19.001Z"
+  },
+  {
+    "id": "5f271ed7-029a-4b96-8a14-c15e51a6455a",
+    "title": "complete the EHE submissions",
+    "description": "",
+    "priority": "Medium",
+    "status": "Completed",
+    "assignedUser": "Student",
+    "createdAt": "2026-11-02T05:11:08.127Z"
+  },
+  {
+    "id": "ebaa5388-1e40-4d1d-ac4c-263236d1caa7",
+    "title": "cybersecurity task 1",
+    "description": "",
+    "priority": "Medium",
+    "status": "Pending",
+    "assignedUser": "Student",
+    "createdAt": "2026-11-02T05:08:50.188Z"
+  },
+  {
+    "id": "25175b36-19e7-4629-ae01-3c12dc729a61",
+    "title": "EVENT COMPLETETION",
+    "description": "Complete the event by confirming that all scheduled sessions have concluded, collecting final attendee feedback, and compiling a post‑event report that summarizes key metrics and lessons learned. Verify that all logistical arrangements (venue, catering, equipment) have been properly closed out and that any outstanding invoices or vendor payments are settled. A successful outcome is a finalized report submitted to stakeholders within 48 hours, with all financial and",
+    "priority": "Medium",
+    "status": "Pending",
+    "assignedUser": "Student",
+    "createdAt": "2026-11-02T04:41:09.472Z"
+  },
+  {
+    "id": "2f3f88a3-0273-4f56-93a5-c897c6266c65",
+    "title": "COMPLETE DE PR",
+    "description": "Plan and complete \"COMPLETE DE PR\". Identify the required steps, work through them, and review the result before marking the task complete.",
+    "priority": "Medium",
+    "status": "Pending",
+    "assignedUser": "Student",
+    "createdAt": "2026-11-02T04:40:51.294Z"
+  },
+  {
     "id": "01d53478-01f3-4664-b142-b2ef05b8ab16",
     "title": "Practical 10 Event Testing",
     "description": "Testing asynchronous background notification",
     "priority": "medium",
-    "status": "Pending",
+    "status": "Completed",
     "assignedUser": "Student",
     "createdAt": "2026-11-02T03:20:33.043Z"
   }
